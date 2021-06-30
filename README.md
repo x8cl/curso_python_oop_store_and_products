@@ -1,0 +1,1 @@
+Ejercicio en clases sobre store y products "Aplicaciones Full Stack Python Trainee - INACAP - 2021"
